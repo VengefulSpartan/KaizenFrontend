@@ -1,0 +1,6 @@
+{
+  "name": "Kaizen Real Estate",
+  "description": "A clean, modern, and highly interactive website for Kaizen, a turnkey real estate sourcing and investment management business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
